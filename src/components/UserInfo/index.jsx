@@ -49,13 +49,6 @@ export default function UserInfo(props) {
               </div>
             </div>
           </Info>
-          <Repositories>
-            <h3>Total Repositories</h3>
-            <div>
-              <img src={repository} alt="" />
-              <span>{user.public_repos}</span>
-            </div>
-          </Repositories>
         </Slide>
       </Fade>
     </Container>

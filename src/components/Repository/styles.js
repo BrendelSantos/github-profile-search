@@ -8,7 +8,8 @@ export const Container = styled.li`
     align-items: start;
     justify-content: space-between;
     flex-direction: column;
-    background-color: ${(props) => props.theme.dark};
+    border-radius: 5px;
+    background: linear-gradient(125deg, ${(props) => props.theme.lightdark} 35%, ${(props) => props.theme.dark} 25%);
     height: 100%;
     padding: 20px 15px 15px 15px;
     box-sizing: border-box;

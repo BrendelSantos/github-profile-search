@@ -4,8 +4,9 @@ import { ThemeProvider } from 'styled-components';
 import GithubProvider from "./providers/github-provider";
 
 const theme = {
-  background: '#1C2321',
+  background: '#403E3E',
   dark: '#201F1F',
+  lightdark: '#303030',
   primary: '#8752CC',
   secondary: '#B2B2B2',
   fontWeightNormal: 400,
