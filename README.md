@@ -2,6 +2,30 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About project
+
+A Web application developed in React/Javascript that allows users to search for Github Profiles.
+
+### Features
+
+- Search infos by username
+- Search repo by username
+- Search starred by username
+
+### Preview
+
+![Preview Github Search](./src/assets/video.gif)
+
+## Tech
+
+* React
+* Javascript
+* React Router
+* React Awesome Reveal
+* Styled Components
+* Axios
+* React-tabs
+
 ## Available Scripts
 
 In the project directory, you can run:
